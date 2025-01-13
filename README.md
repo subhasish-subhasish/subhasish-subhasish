@@ -1,4 +1,71 @@
-## Hi there 👋
+# Subhasish Das - Portfolio
+
+Welcome to my GitHub repository! I am currently pursuing an **M.Sc Tech in Engineering Physics (Electronics)** at the **National Institute of Technology, Warangal**. My passion lies in **embedded electronics**, **IoT**, and **real-time operating systems (RTOS)**, and I am eager to collaborate on innovative projects.
+
+---
+
+## 🔧 Skills and Tools
+- **Programming:** C, C++ (DSA), Python
+- **Embedded Systems:** Arduino, STM32, 8086 Microprocessor, 8051 Microcontroller
+- **Simulation Tools:** Xilinx Vivado, Proteus, NI Multisim
+- **Operating Systems:** Windows, Linux
+- **Web Development:** HTML, CSS, SQL
+- **Version Control:** Git & GitHub
+
+---
+
+## 📚 Education
+- **M.Sc Tech (Engineering Physics - Electronics)**  
+  National Institute of Technology, Warangal  
+  **2023-2026** | CGPA: **8.33/10**
+
+- **B.Sc Physics (Honors)**  
+  Prabhat Kumar College, Contai, W.B  
+  **2019-2022** | CGPA: **8.79/10**
+
+- **Higher Secondary (Science)**  
+  Pichhabani Bani Niketan High School, W.B  
+  **2017-2019** | Percentage: **82.28%**
+
+---
+
+## 🎯 Career Goals
+### Short-term:
+- Master **microcontroller programming**, **RTOS**, and **hardware-software integration** to gain expertise in **embedded systems design**.
+
+### Long-term:
+- Contribute to cutting-edge industries like **IoT**, **automotive**, or **consumer electronics**, focusing on **firmware development** and **system optimization**.
+
+---
+
+## 🛠️ Projects
+- **Markov Chain Monte Carlo (MCMC) Simulation in Molecular Dynamics**  
+  Developed computational models to simulate and validate molecular system behaviors.  
+
+---
+
+## 🌟 Certifications
+- **Mastering Microcontroller and Embedded Driver Development**  
+  [Udemy Course](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/)
+- **Embedded System Design With ARM**  
+  [IISc Bengaluru Certification](https://onlinecourses.nptel.ac.in/noc22_cs93/preview)
+- **Full Stack Web Development**
+
+---
+
+## 📫 Let's Connect
+- **Email:** sd23phc1r49@student.nitw.ac.in  
+- **GitHub:** [subhasish-subhasish](https://github.com/subhasish-subhasish)  
+- **LinkedIn:** [Subhasish Das](https://www.linkedin.com/in/subhasishsubhasish/)  
+
+---
+
+## 🌐 Hobbies
+- Traveling  
+- Hiking  
+- Reading Books  
+- Cycling  
+- Stock Investing
 
 <!--
 **subhasish-subhasish/subhasish-subhasish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
