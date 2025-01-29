@@ -45,13 +45,12 @@ Welcome to my GitHub repository! I am currently pursuing an **M.Sc Tech in Engin
 ---
 
 ## 🌟 Certifications
-- **Mastering Microcontroller and Embedded Driver Development**  
-  [Udemy Course](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/)
-- **Embedded System Design With ARM**
-- **  
-  [IISc Bengaluru Certification](https://onlinecourses.nptel.ac.in/noc22_cs93/preview)
-- **Full Stack Web Development**
 - **[Mastering Microcontroller and Embedded Driver Development](https://www.udemy.com/course/mastering-microcontroller-and-embedded-driver-development/)** - Udemy Course
+- **[Embedded System Design With ARM](https://onlinecourses.nptel.ac.in/noc22_cs93/preview)**
+- **[Introduction To Internet Of Things](https://onlinecourses.nptel.ac.in/noc25_cs44/preview)**  
+  [IISc Bengaluru Certification](https://onlinecourses.nptel.ac.in/noc22_cs93/preview)
+- **Full Stack Web Development****
+
 
 ---
 
